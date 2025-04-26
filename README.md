@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zehnooo
-- 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning full stack development
-- 📫 How to reach me gage.andreoni@proton.me
+- I’m interested in coding and video games
+- Aspiring full stack developer
+- How to reach me gage.andreoni@proton.me
 
 <!---
 Zehnooo/Zehnooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
