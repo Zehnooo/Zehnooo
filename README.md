@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Gage
-- I’m interested in coding and video games
-- Aspiring full stack developer
+- I am an aspriring full stack developer with a deep passion for video games.
 - How to reach me gage.andreoni@proton.me
