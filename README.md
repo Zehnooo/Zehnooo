@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Gage
 - I am an aspriring full stack developer with a deep passion for video games.
 - How to reach me gage.andreoni@proton.me
+  [https://www.codewars.com/users/Zehnooo/badges/large]
